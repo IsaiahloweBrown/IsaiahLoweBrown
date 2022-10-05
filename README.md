@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I am Isaiah and software developer by trade
+### I focus in HTML, CSS, JS, Node.JS, React, and Mongo.DB
 <!--
 **IsaiahloweBrown/IsaiahLoweBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
