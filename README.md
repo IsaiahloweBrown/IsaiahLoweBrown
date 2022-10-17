@@ -6,8 +6,9 @@ Philadelphia, PA | Software Engineer at Resilient Coders
 
 🔭Growing up, I was fascinated with how video games moved on the screen.
 This curiosity turned into a love for knowledge and a quest for tinkering with any and all electronics. As I grew older, I realized people close to me were not able to use technology in the same ways I was. I studied information technology to help those who struggled with using computers and other devices. As a helpdesk analyst, I realized the problem was rooted in how the software was designed and developed. As a software developer, I will create more inclusive technology for people with neurological and physical disabilities. I am looking forward to connecting with your company and learning I can contribute
-<br>⚡ Hot Take: Sixers are getting a ring this year.
-
+<br>
+⚡ Hot Take: Sixers are getting a ring this year.
+😎 Currently working on Node.JS and APIs
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaiah-lowe-brown) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IsaiahLoweBrown) 
