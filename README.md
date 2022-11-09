@@ -1,5 +1,6 @@
 # 💫 About Me:
 
+![me](https://user-images.githubusercontent.com/112201564/200931106-b7c72031-e3e4-4fbf-8278-a183b2ab25c6.jpg)
 
 
 Philadelphia, PA | Software Engineer at Resilient Coders
