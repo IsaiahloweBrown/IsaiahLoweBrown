@@ -7,7 +7,7 @@ Philadelphia, PA | Software Engineer at Resilient Coders
 
 
 🔭Growing up, I was fascinated with how video games moved on the screen.
-This curiosity turned into a love for knowledge and a quest for tinkering with any and all electronics. As I grew older, I realized people close to me were not able to use technology in the same ways I was. I studied information technology to help those who struggled with using computers and other devices. As a helpdesk analyst, I realized the problem was rooted in how the software was designed and developed. As a software developer, I will create more inclusive technology for people with neurological and physical disabilities. I am looking forward to connecting with your company and learning I can contribute
+This curiosity turned into a love for knowledge and a quest for tinkering with any and all electronics. As I grew older, I realized people close to me were not able to use technology in the same ways I was. I studied information technology to help those who struggled with using computers and other devices. As a helpdesk analyst, I realized the problem was rooted in how the software was designed and developed. As a software developer, I will create more inclusive technology for people with neurological and physical disabilities. I am looking forward to connecting with your company and learning how I can contribute
 <br>
 ⚡ Hot Take: Sixers are getting a ring this year. I am not changing this XD<br>
 😎 Currently working on Node.JS and MongoDB<br>
